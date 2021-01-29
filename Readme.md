@@ -179,13 +179,9 @@ Get-Content .\Pester\Linux_test.ps1
 ```
 
 ## ¿Qué hacer déspues de esta Presentación?
-- Descargar e Instalar (o actualizar) PowerShell 7"
-  Ingresa a https://github.com/PowerShell/PowerShell
-    Read-Host
-- Aprende los aspectos básicos
-  "Estructura de los comandos, Operadores lógicos, condicionales y ciclos
-- Revisa el repositorio de Github donde está lo que hemos visto hoy"
-  https://github.com/soysoliscarlos/BsidesPA2021
+- Descargar e Instalar (o actualizar) PowerShell 7": Ingresa a https://github.com/PowerShell/PowerShell
+- Aprende los aspectos básicos: "Estructura de los comandos, Operadores lógicos, condicionales y ciclos
+- Revisa el repositorio de Github donde está lo que hemos visto hoy": https://github.com/soysoliscarlos/BsidesPA2021
 
 
 ## Referencias
