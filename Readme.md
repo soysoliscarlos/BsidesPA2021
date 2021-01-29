@@ -67,7 +67,7 @@ Get-WinEvent -ListProvider *Policy*
 ```
 #### Obtener todos los registros de un solo host.
 ```
-$WMI = Get-CimInstance -ClassName 'Win32_NTEventlogfile' -ComputerName pandc01
+$WMI = Get-CimInstance -ClassName 'Win32_NTEventlogfile' -ComputerName $pc
 $WMI | ft -AutoSize
 $WMI[0] | fl
 ```
